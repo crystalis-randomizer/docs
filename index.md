@@ -1,3 +1,7 @@
+---
+title: Crystalis Randomizer
+---
+
 <!-- title>Crystalis Randomizer</title>
 <link rel="stylesheet" href="css/main.css">
 
@@ -6,7 +10,7 @@
   <a href="index">Play</a>
   <a class="if-not-permalink" href="track">Track</a>
   <a href="help">Help</a>
-  <!-- TODO: better process for stable version numbers. -->
+--><!-- TODO: better process for stable version numbers. --><!--
   <span id="version"></span>
 </nav>
 <div></div -->
